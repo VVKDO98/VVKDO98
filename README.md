@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently in training at [BeCode](https://becode.org)<br>🌱 I’m currently learning React<br>💻 I'm looking for a **web development internship**<br>📫 Reach me [vanvolcksom.doriano01@gmail.com](mailto:vanvolcksom.doriano01@gmail.com)<br>✅ [See my portfolio](https://vvkdo.pages.dev/)
+🔭 I'm currently in training at [BeCode](https://becode.org)<br>🌱 I’m currently learning NextJS<br>💻 I'm looking for a **web development internship**<br>📫 Reach me [vanvolcksom.doriano01@gmail.com](mailto:vanvolcksom.doriano01@gmail.com)<br>✅ [See my portfolio](https://vvkdo.pages.dev/)
 
 
 ## 🌐 Socials
