@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Doriano Vanvolcksom
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================================
 
 Analyst Developer & Junior Advisor
@@ -6,7 +6,6 @@ Analyst Developer & Junior Advisor
 
 * 🌍  I'm based in Belgium
 * 🖥️  See my portfolio at [vvkdo.pages.dev](http://https://vvkdo.pages.dev/)
-* ✉️  You can contact me at [vanvolcksom.doriano01@gmail.com](mailto:vanvolcksom.doriano01@gmail.com)
 * 🧠  I'm learning NextJS
 
 ### Skills
